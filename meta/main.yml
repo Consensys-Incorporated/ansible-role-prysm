@@ -9,12 +9,12 @@ galaxy_info:
   platforms:
     - name: Ubuntu
       versions:
-        - jammy
-        - bionic
-        - xenial
+        - resolute
+        - noble
     - name: Fedora
       versions:
-        - all
+        - "44"
+        - "43"
   galaxy_tags:
     - prysm
     - blockchain
