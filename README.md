@@ -14,7 +14,6 @@ Ansible role that will install, configure and runs [prysm](https://github.com/pr
 ### Supported Platforms
 ```
 * MacOS
-* Debian
 * Ubuntu
 * Redhat(CentOS/Fedora)
 * Amazon
